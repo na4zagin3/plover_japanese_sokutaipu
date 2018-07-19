@@ -1,14 +1,14 @@
-Plover Russian Trillo
+Plover Japanese Sokutaipu
 =====================
 
-The Trillo Russian Realtime stenography system for Plover.
+The Sokutaipu Japanese Realtime stenography system for Plover.
 
-Activating Trillo
+Activating Sokutaipu
 ~~~~~~~~~~~~~~~~~~~~
 
-After installing this plugin, you need to turn on Trillo in Plover:
+After installing this plugin, you need to turn on Sokutaipu in Plover:
 
-1. In Plover's configuration, go to the ``Systems`` tab, and change the active system to ``Russian Trillo``.
+1. In Plover's configuration, go to the ``Systems`` tab, and change the active system to ``Japanese Sokutaipu``.
 2. You will need a Tréal machine to use this theory.
 
 Common Commands
