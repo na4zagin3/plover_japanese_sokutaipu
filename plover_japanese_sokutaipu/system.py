@@ -92,7 +92,7 @@ KEYMAPS = {
     },
 }
 
-DICTIONARIES_ROOT = 'asset:plover_japanese_sokutaipu:assets'
+DICTIONARIES_ROOT = 'asset:plover_japanese_sokutaipu:dictionaries'
 DEFAULT_DICTIONARIES = (
     'user.json',
     'commands.json',
